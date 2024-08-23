@@ -1,0 +1,230 @@
+{
+  "heading": "Prefixes and Suffixes Quiz",
+  "topics": [
+    {
+      "heading": "Prefixes and Suffixes",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "What does the prefix \"pre-\" mean in the word \"preview\"?",
+          "options": [
+            "After",
+            "Before",
+            "During"
+          ],
+          "answer": 1,
+          "explanation": "The prefix \"pre-\" means \"before.\" A \"preview\" is something you see before the main event."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which word means to do something again?",
+          "options": [
+            "Misunderstand",
+            "Replay",
+            "Preheat"
+          ],
+          "answer": 1,
+          "explanation": "The prefix \"re-\" means \"again.\" \"Replay\" means to play something again."
+        },
+        {
+          "questionNo": 3,
+          "question": "If you \"prewrite\" a story, what are you doing?",
+          "options": [
+            "Writing before the final version",
+            "Writing after the final version",
+            "Not writing at all"
+          ],
+          "answer": 0,
+          "explanation": "\"Prewrite\" means to write notes or an outline before creating the final story."
+        },
+        {
+          "questionNo": 4,
+          "question": "What does the prefix \"mis-\" mean in the word \"misspell\"?",
+          "options": [
+            "To spell again",
+            "To spell correctly",
+            "To spell wrongly"
+          ],
+          "answer": 2,
+          "explanation": "The prefix \"mis-\" means \"wrong\" or \"badly.\" \"Misspell\" means to spell a word incorrectly."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which word means to look at something before others?",
+          "options": [
+            "Prebook",
+            "Relook",
+            "Preview"
+          ],
+          "answer": 2,
+          "explanation": "\"Preview\" means to see something before it is shown to others."
+        },
+        {
+          "questionNo": 6,
+          "question": "If you \"redo\" your homework, what are you doing?",
+          "options": [
+            "Doing it for the first time",
+            "Doing it again",
+            "Not doing it"
+          ],
+          "answer": 1,
+          "explanation": "The prefix \"re-\" means \"again.\" \"Redo\" means to do your homework again."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which word means to understand something wrongly?",
+          "options": [
+            "Misunderstand",
+            "Reunderstand",
+            "Preunderstand"
+          ],
+          "answer": 0,
+          "explanation": "The prefix \"mis-\" means \"wrongly.\" \"Misunderstand\" means to understand something incorrectly."
+        },
+        {
+          "questionNo": 8,
+          "question": "What does the prefix \"re-\" mean in the word \"revisit\"?",
+          "options": [
+            "To visit before",
+            "To visit wrongly",
+            "To visit again"
+          ],
+          "answer": 2,
+          "explanation": "\"Revisit\" means to visit a place again."
+        },
+        {
+          "questionNo": 9,
+          "question": "What does the suffix \"-ful\" mean in the word \"hopeful\"?",
+          "options": [
+            "Full of hope",
+            "Without hope",
+            "Doing something again"
+          ],
+          "answer": 0,
+          "explanation": "The suffix \"-ful\" means \"full of.\" \"Hopeful\" means full of hope."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which word means without help?",
+          "options": [
+            "Helpful",
+            "Helpless",
+            "Helpment"
+          ],
+          "answer": 1,
+          "explanation": "The suffix \"-less\" means \"without.\" \"Helpless\" means without help."
+        },
+        {
+          "questionNo": 11,
+          "question": "If you do something in a careful way, you do it ______.",
+          "options": [
+            "Careless",
+            "Carefully",
+            "Careful"
+          ],
+          "answer": 1,
+          "explanation": "The suffix \"-ly\" means \"in a certain way.\" \"Carefully\" means in a careful way."
+        },
+        {
+          "questionNo": 12,
+          "question": "What does the suffix \"-less\" mean in the word \"useless\"?",
+          "options": [
+            "Full of use",
+            "Using again",
+            "Without use"
+          ],
+          "answer": 2,
+          "explanation": "\"Useless\" means without use or not useful."
+        },
+        {
+          "questionNo": 13,
+          "question": "Which word means the result of achieving something?",
+          "options": [
+            "Achievement",
+            "Achieveful",
+            "Achieveless"
+          ],
+          "answer": 0,
+          "explanation": "The suffix \"-ment\" means \"the result of.\" \"Achievement\" is the result of achieving something."
+        },
+        {
+          "questionNo": 14,
+          "question": "What does the suffix \"-ly\" mean in the word \"quickly\"?",
+          "options": [
+            "In a slow way",
+            "In a quick way",
+            "Without quickness"
+          ],
+          "answer": 1,
+          "explanation": "\"Quickly\" means doing something in a fast or quick way."
+        },
+        {
+          "questionNo": 15,
+          "question": "If something is \"colourless,\" what does it mean?",
+          "options": [
+            "Full of colour",
+            "Without colour",
+            "With too much colour"
+          ],
+          "answer": 1,
+          "explanation": "\"Colourless\" means without any colour."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which word means to feel very full of joy?",
+          "options": [
+            "Joyless",
+            "Joyful",
+            "Joyment"
+          ],
+          "answer": 1,
+          "explanation": "\"Joyful\" means full of joy or happiness."
+        },
+        {
+          "questionNo": 17,
+          "question": "What does the suffix \"-ment\" mean in the word \"enjoyment\"?",
+          "options": [
+            "The result of enjoying",
+            "To enjoy again",
+            "Without enjoyment"
+          ],
+          "answer": 0,
+          "explanation": "\"Enjoyment\" is the result of enjoying something."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which word means to pack something again?",
+          "options": [
+            "Prepack",
+            "Repack",
+            "Mispick"
+          ],
+          "answer": 1,
+          "explanation": "\"Repack\" means to pack something again."
+        },
+        {
+          "questionNo": 19,
+          "question": "What does \"misplace\" mean?",
+          "options": [
+            "To place something in the wrong spot",
+            "To place something carefully",
+            "To place something again"
+          ],
+          "answer": 0,
+          "explanation": "\"Misplace\" means to put something in the wrong place."
+        },
+        {
+          "questionNo": 20,
+          "question": "Which word means the action of improving?",
+          "options": [
+            "Improvement",
+            "Misimprove",
+            "Reimprove"
+          ],
+          "answer": 0,
+          "explanation": "\"Improvement\" is the result or action of making something better."
+        }
+      ]
+    }
+  ]
+}
